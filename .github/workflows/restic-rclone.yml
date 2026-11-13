@@ -78,7 +78,7 @@ jobs:
           labels: |
             org.opencontainers.image.title=restic-rclone
             org.opencontainers.image.description=Official restic and rclone binaries in one image
-            org.opencontainers.image.source=https://github.com/Aethersailor/restic-rclone-docker
+            org.opencontainers.image.source=https://github.com/Aethersailor/restic-rclone
             org.opencontainers.image.revision=${{ github.sha }}
             org.opencontainers.image.version=${{ steps.upstream.outputs.version }}
             org.opencontainers.image.licenses=BSD-2-Clause AND MIT

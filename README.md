@@ -101,4 +101,4 @@ restic 遵循 [BSD 2-Clause](LICENSE.restic)，rclone 遵循 [MIT](LICENSE.rclon
 
 ## 问题反馈
 
-镜像拉取、标签、架构和容器打包问题请在[本仓库 Issues](https://github.com/Aethersailor/restic-rclone-docker/issues)反馈。
+镜像拉取、标签、架构和容器打包问题请在[本仓库 Issues](https://github.com/Aethersailor/restic-rclone/issues)反馈。
